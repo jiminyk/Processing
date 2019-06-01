@@ -3,14 +3,14 @@
 ### Fundamental Elements of Programming
 
 - Data
--- Variable
--- Array
+    - Variable
+    - Array
 
 - Control
--- Conditional
--- Loop
+    - Conditional
+    - Loop
 
 - Organization
--- Functions
--- Objects
+    - Functions
+    - Objects
 
